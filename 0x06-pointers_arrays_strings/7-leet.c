@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * leet - Converts to leet format
- * @s: string to be formatted
- * Return: formatted string
- */
+* leet - Converts to leet format
+* @s: string to be formatted
+* Return: formatted string
+*/
 char *leet(char *s)
 {
 	char options[] = {65, 52, 69, 51, 79, 48, 84, 55, 76, 49};
